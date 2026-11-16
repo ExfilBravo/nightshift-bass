@@ -1,0 +1,6 @@
+build/
+# Test signals, renders and screenshots: all made by basstool (see README)
+testdata/
+*.png
+*.settings
+build_log.txt
